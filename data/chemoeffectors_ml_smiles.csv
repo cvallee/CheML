@@ -1,0 +1,280 @@
+Chemoeffectors,Response,SMILES,Iso_SMILES
+N-acetyl-L-aspartate,attractant,CC(=O)NC(CC(=O)O)C(=O)O,CC(=O)N[C@@H](CC(=O)O)C(=O)O
+N-acetyl-L-serine,attractant,CC(=O)NC(CO)C(=O)O,CC(=O)N[C@@H](CO)C(=O)O
+Beta-alanine,none,C(CN)C(=O)O,C(CN)C(=O)O
+L-alpha-Aminoadipate,none,C(CC(C(=O)O)N)CC(=O)O,C(C[C@@H](C(=O)O)N)CC(=O)O
+gamma-amino-n-butyrate,none,C(CC(=O)[O-])C[NH3+],C(CC(=O)[O-])C[NH3+]
+alpha-aminoisobutyrate,attractant,CC(C)(C(=O)O)N,CC(C)(C(=O)O)N
+DL-2-amino-1-propanol,attractant,CC(CO)N,CC(CO)N
+ammonium,attractant,[NH4+],[NH4+]
+D-aspartate,attractant,C(C(C(=O)O)N)C(=O)O,C([C@H](C(=O)O)N)C(=O)O
+L-aspartate,attractant,C(C(C(=O)O)N)C(=O)O,C([C@@H](C(=O)O)N)C(=O)O
+L-citrulline,attractant,C(CC(C(=O)O)N)CNC(=O)N,C(C[C@@H](C(=O)O)N)CNC(=O)N
+l-cysteate,attractant,C(C(C(=O)[O-])N)S(=O)(=O)O,C(C(C(=O)[O-])N)S(=O)(=O)O
+formate,none,C(=O)[O-],C(=O)[O-]
+fumarate,attractant,C(=CC(=O)[O-])C(=O)[O-],C(=C/C(=O)[O-])\C(=O)[O-]
+glutathione,attractant,C(CC(=O)NC(CS)C(=O)NCC(=O)O)C(C(=O)O)N,C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
+DL-glycerate,none,C(C(C(=O)O)O)O,C(C(C(=O)O)O)O
+L-homocysteine,none,C(CS)C(C(=O)O)N,C(CS)[C@@H](C(=O)O)N
+L-homoserine,attractant,C(CO)C(C(=O)O)N,C(CO)[C@@H](C(=O)O)N
+DL-threo-Beta-hydroxyaspartate,attractant,C(C(C(=O)O)O)(C(=O)O)N,[C@H]([C@@H](C(=O)O)O)(C(=O)O)N
+hydroxypyruvate,none,C(C(=O)C(=O)O)O,C(C(=O)C(=O)O)O
+Isoasparagine,attractant,C(C(C(=O)N)N)C(=O)O,C([C@@H](C(=O)N)N)C(=O)O
+Isoserine,attractant,C(C(C(=O)O)O)N,C(C(C(=O)O)O)N
+alpha-ketoglutarate,none,C(CC(=O)[O-])C(=O)C(=O)[O-],C(CC(=O)[O-])C(=O)C(=O)[O-]
+DL-lactate,none,CC(C(=O)[O-])O,CC(C(=O)[O-])O
+L-malate,attractant,C(C(C(=O)[O-])O)C(=O)[O-],C([C@@H](C(=O)[O-])O)C(=O)[O-]
+methylammonium,attractant,C[NH3+],C[NH3+]
+DL-Beta-methylaspartate,attractant,CC(C(C(=O)O)N)C(=O)O,CC(C(C(=O)O)N)C(=O)O
+N-methyl-DL-aspartate,attractant,CNC(CC(=O)[O-])C(=O)[O-],CNC(CC(=O)[O-])C(=O)[O-]
+N-methyl-L-serine,attractant,CNC(CO)C(=O)O,CN[C@@H](CO)C(=O)O
+O-methyl-DL-serine,attractant,COCC(C(=O)O)N,COCC(C(=O)O)N
+2-methylsuccinate,attractant,CC(CC(=O)O)C(=O)O,CC(CC(=O)O)C(=O)O
+L-ornithine,attractant,C(CC(C(=O)O)N)CN,C(C[C@@H](C(=O)O)N)CN
+oxaloacetate,none,C(C(=O)C(=O)O)C(=O)O,C(C(=O)C(=O)O)C(=O)O
+pyruvate,none,CC(=O)C(=O)[O-],CC(=O)C(=O)[O-]
+D-serine,attractant,C(C(C(=O)O)N)O,C([C@H](C(=O)O)N)O
+L-serine,attractant,C(C(C(=O)O)N)O,C([C@@H](C(=O)O)N)O
+L-serine methyl ester,attractant,COC(=O)C(CO)N.Cl,COC(=O)[C@H](CO)N.Cl
+DL-serinol,none,C(C(CO)N)O,C(C(CO)N)O
+succinate,attractant,C(CC(=O)[O-])C(=O)[O-],C(CC(=O)[O-])C(=O)[O-]
+L-cysteine,attractant,C(C(C(=O)O)N)S,C([C@@H](C(=O)O)N)S
+L-glutamate,attractant,C(CC(=O)O)C(C(=O)O)N,C(CC(=O)O)[C@@H](C(=O)O)N
+L-asparagine,attractant,C(C(C(=O)O)N)C(=O)N,C([C@@H](C(=O)O)N)C(=O)N
+L-alanine,attractant,CC(C(=O)O)N,C[C@@H](C(=O)O)N
+glycine,attractant,C(C(=O)O)N,C(C(=O)O)N
+L-methionine,attractant,CSCCC(C(=O)O)N,CSCC[C@@H](C(=O)O)N
+L-threonine,attractant,CC(C(C(=O)O)N)O,C[C@H]([C@@H](C(=O)O)N)O
+L-proline,attractant,C1CC(NC1)C(=O)O,C1C[C@H](NC1)C(=O)O
+L-isoleucine,repellent,CCC(C)C(C(=O)O)N,CC[C@H](C)[C@@H](C(=O)O)N
+L-leucine,repellent,CC(C)CC(C(=O)O)N,CC(C)C[C@@H](C(=O)O)N
+L-valine,repellent,CC(C)C(C(=O)O)N,CC(C)[C@@H](C(=O)O)N
+L-tryptophan,repellent,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N
+L-glutamine,repellent,C(CC(=O)N)C(C(=O)O)N,C(CC(=O)N)[C@@H](C(=O)O)N
+L-histidine,repellent,C1=C(NC=N1)CC(C(=O)O)N,C1=C(NC=N1)C[C@@H](C(=O)O)N
+L-phenylalanine,repellent,C1=CC=C(C=C1)CC(C(=O)O)N,C1=CC=C(C=C1)C[C@@H](C(=O)O)N
+L-arginine,none,C(CC(C(=O)O)N)CN=C(N)N,C(C[C@@H](C(=O)O)N)CN=C(N)N
+L-lysine,none,C(CCN)CC(C(=O)O)N,C(CCN)C[C@@H](C(=O)O)N
+L-tyrosine,none,C1=CC(=CC=C1CC(C(=O)O)N)O,C1=CC(=CC=C1C[C@@H](C(=O)O)N)O
+D-glyceraldehyde,none,C(C(C=O)O)O,C([C@H](C=O)O)O
+dihydroxyacetone,none,C(C(=O)CO)O,C(C(=O)CO)O
+L-alpha-glycerophosphate,attractant,C(C(COP(=O)(O)O)O)O,C([C@@H](COP(=O)(O)O)O)O
+D-erythrose,attractant,C(C(C(C=O)O)O)O,C([C@H]([C@H](C=O)O)O)O
+erythritol,none,C(C(C(CO)O)O)O,C([C@H]([C@H](CO)O)O)O
+D-arabinose,attractant,C(C(C(C(C=O)O)O)O)O,C([C@H]([C@H]([C@@H](C=O)O)O)O)O
+L-arabinose,attractant,C1C(C(C(C(O1)O)O)O)O,C1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O
+D-lyxose,none,C1C(C(C(C(O1)O)O)O)O,C1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O
+D-ribose,attractant,C1C(C(C(C(O1)O)O)O)O,C1[C@H]([C@H]([C@H](C(O1)O)O)O)O
+D-xylose,attractant,C1C(C(C(C(O1)O)O)O)O,C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O
+L-xylose,attractant,C(C(C(C(C=O)O)O)O)O,C([C@@H]([C@H]([C@@H](C=O)O)O)O)O
+D-ribulose,attractant,C(C(C(C(=O)CO)O)O)O,C([C@H]([C@H](C(=O)CO)O)O)O
+2-deoxy-D-ribose,attractant,C(C=O)C(C(CO)O)O,C(C=O)[C@@H]([C@@H](CO)O)O
+D-arabitol,none,C(C(C(C(CO)O)O)O)O,C([C@H](C([C@@H](CO)O)O)O)O
+L-arabitol,attractant,C(C(C(C(CO)O)O)O)O,C([C@@H](C([C@H](CO)O)O)O)O
+ribitol,none,C(C(C(C(CO)O)O)O)O,C([C@H](C([C@H](CO)O)O)O)O
+D-ribonate,none,C(C(C(C(C(=O)[O-])O)O)O)O,C([C@H]([C@H]([C@H](C(=O)[O-])O)O)O)O
+adenosine,attractant,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N
+cytidine,none,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
+guanosine,attractant,C1=NC2=C(N1C3C(C(C(O3)CO)O)O)N=C(NC2=O)N,C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N=C(NC2=O)N
+uridine,attractant,C1=CN(C(=O)NC1=O)C2C(C(C(O2)CO)O)O,C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
+adenosine monophosphate,attractant,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
+adenosine triphosphate,attractant,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N
+D-galactose,attractant,C(C1C(C(C(C(O1)O)O)O)O)O,C([C@@H]1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+L-galactose,attractant,C(C(C(C(C(C=O)O)O)O)O)O,C([C@@H]([C@H]([C@H]([C@@H](C=O)O)O)O)O)O
+D-glucose,attractant,C(C1C(C(C(C(O1)O)O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+L-glucose,attractant,C(C1C(C(C(C(O1)O)O)O)O)O,C([C@H]1[C@@H]([C@H]([C@@H](C(O1)O)O)O)O)O
+D-mannose,attractant,C(C1C(C(C(C(O1)O)O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O
+L-mannose,attractant,C(C(C(C(C(C=O)O)O)O)O)O,C([C@@H]([C@@H]([C@H]([C@H](C=O)O)O)O)O)O
+D-fructose,attractant,C1C(C(C(C(O1)(CO)O)O)O)O,C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+L-sorbose,attractant,C1C(C(C(C(O1)(CO)O)O)O)O,C1[C@@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+2-deoxy-D-galactose,attractant,C(C=O)C(C(C(CO)O)O)O,C(C=O)[C@H]([C@H]([C@@H](CO)O)O)O
+D-fucose,attractant,CC(C(C(C(C=O)O)O)O)O,C[C@H]([C@@H]([C@@H]([C@H](C=O)O)O)O)O
+L-fucose,none,CC1C(C(C(C(O1)O)O)O)O,C[C@H]1[C@H]([C@H]([C@@H](C(O1)O)O)O)O
+2-deoxy-D-glucose,attractant,C(C=O)C(C(C(CO)O)O)O,C(C=O)[C@H]([C@@H]([C@@H](CO)O)O)O
+6-deoxy-D-glucose,attractant,CC1C(C(C(C(O1)O)O)O)O,C[C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O
+L-rhamnose,attractant,CC1C(C(C(C(O1)O)O)O)O,C[C@H]1[C@@H]([C@H]([C@H](C(O1)O)O)O)O
+N-acetyl-D-glucosamine,attractant,CC(=O)NC1C(C(C(OC1O)CO)O)O,CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](OC1O)CO)O)O
+N-acetyl-D-mannosamine,attractant,CC(=O)NC1C(C(C(OC1O)CO)O)O,CC(=O)N[C@H]1[C@H]([C@@H]([C@H](OC1O)CO)O)O
+D-glucosamine,attractant,C(C1C(C(C(C(O1)O)N)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)N)O)O)O
+D-galactosamine,attractant,C(C1C(C(C(C(O1)O)N)O)O)O,C([C@@H]1[C@@H]([C@@H]([C@H](C(O1)O)N)O)O)O
+D-mannosamine,attractant,C(C1C(C(C(C(O1)O)N)O)O)O,C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)N)O)O)O
+galactitol,attractant,C(C(C(C(C(CO)O)O)O)O)O,C([C@H]([C@@H]([C@@H]([C@H](CO)O)O)O)O)O
+D-sorbitol,attractant,C(C(C(C(C(CO)O)O)O)O)O,C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O
+D-mannitol,attractant,C(C(C(C(C(CO)O)O)O)O)O,C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
+myo-inositol,attractant,C1(C(C(C(C(C1O)O)O)O)O)O,C1(C(C(C(C(C1O)O)O)O)O)O
+D-gluconate,none,C(C(C(C(C(C(=O)[O-])O)O)O)O)O,C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O
+D-glucuronate,none,C1(C(C(OC(C1O)O)C(=O)O)O)O,[C@@H]1([C@@H]([C@H](OC([C@@H]1O)O)C(=O)O)O)O
+D-galactonate,none,C(C(C(C(C(C(=O)[O-])O)O)O)O)O,C([C@H]([C@@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O
+D-galacturonate,attractant,C1(C(C(OC(C1O)O)C(=O)O)O)O,[C@@H]1([C@H]([C@H](OC([C@@H]1O)O)C(=O)O)O)O
+D-fructose-1-phosphate,none,C(C1C(C(C(O1)(COP(=O)(O)O)O)O)O)O,C([C@@H]1[C@H]([C@@H](C(O1)(COP(=O)(O)O)O)O)O)O
+D-fructose-6-phosphate,none,C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O,C([C@H]([C@H]([C@@H](C(=O)CO)O)O)O)OP(=O)(O)O
+alpha-D-galactose-1-phosphate,attractant,C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O,C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)O)O)O)O)O
+D-galactose-6-phosphate,attractant,C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O,C([C@H]([C@@H]([C@@H]([C@H](C=O)O)O)O)O)OP(=O)(O)O
+alpha-D-glucose-1-phosphate,attractant,C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)O)O)O)O)O
+D-glucose-6-phosphate,attractant,C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O,C([C@H]([C@H]([C@@H]([C@H](C=O)O)O)O)O)OP(=O)(O)O
+2-deoxy-D-glucose-6-phosphate,none,C(C=O)C(C(C(COP(=O)(O)O)O)O)O,C(C=O)[C@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
+D-mannose-6-phosphate,none,C(C1C(C(C(C(O1)O)O)O)O)OP(=O)(O)O,C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)OP(=O)(O)O
+3-O-methyl-D-glucose,none,COC(C(C=O)O)C(C(CO)O)O,CO[C@H]([C@H](C=O)O)[C@@H]([C@@H](CO)O)O
+methyl-Beta-D-galactoside,attractant,COC1C(C(C(C(O1)CO)O)O)O,CO[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O
+methyl-alpha-D-mannoside,none,COC1C(C(C(C(O1)CO)O)O)O,CO[C@@H]1[C@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+glucoheptose,none,C(C(C(C(C(C(C=O)O)O)O)O)O)O,C([C@H]([C@H]([C@@H]([C@H]([C@H](C=O)O)O)O)O)O)O
+sedoheptulosan,none,C1C2C(C(C(C(O1)(O2)CO)O)O)O,C1[C@@H]2[C@H]([C@H]([C@@H]([C@](O1)(O2)CO)O)O)O
+cellobiose,attractant,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+lactose,attractant,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+maltose,attractant,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+melibiose,attractant,C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O)O,C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H](C(O2)O)O)O)O)O)O)O)O
+sucrose,none,C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O
+trehalose,attractant,C(C1C(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O
+cyclohexaamylose,attractant,C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(O2)C(C7O)O)CO)CO)CO)CO)CO)O)O)O,C([C@@H]1[C@@H]2[C@@H]([C@H]([C@H](O1)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O[C@@H]4[C@H](O[C@@H]([C@@H]([C@H]4O)O)O[C@@H]5[C@H](O[C@@H]([C@@H]([C@H]5O)O)O[C@@H]6[C@H](O[C@@H]([C@@H]([C@H]6O)O)O[C@@H]7[C@H](O[C@H](O2)[C@@H]([C@H]7O)O)CO)CO)CO)CO)CO)O)O)O
+cycloheptaamylose,attractant,C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O,C([C@@H]1[C@@H]2[C@@H]([C@H]([C@H](O1)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O[C@@H]4[C@H](O[C@@H]([C@@H]([C@H]4O)O)O[C@@H]5[C@H](O[C@@H]([C@@H]([C@H]5O)O)O[C@@H]6[C@H](O[C@@H]([C@@H]([C@H]6O)O)O[C@@H]7[C@H](O[C@@H]([C@@H]([C@H]7O)O)O[C@@H]8[C@H](O[C@H](O2)[C@@H]([C@H]8O)O)CO)CO)CO)CO)CO)CO)O)O)O
+acetate,repellent,CC(=O)[O-],CC(=O)[O-]
+n-butyrate,repellent,CCCC(=O)[O-],CCCC(=O)[O-]
+n-valerate,repellent,CCCCC(=O)O,CCCCC(=O)O
+n-caproate,repellent,CCCCCC(=O)[O-],CCCCCC(=O)[O-]
+n-heptanoate,repellent,CCCCCCC(=O)[O-],CCCCCCC(=O)[O-]
+n-caprylate,repellent,CCCCCCCC(=O)[O-],CCCCCCCC(=O)[O-]
+n-caprate,repellent,CCCCCCCCCC(=O)O,CCCCCCCCCC(=O)O
+iso-butyrate,repellent,CC(C)C(=O)O,CC(C)C(=O)O
+iso-valerate,repellent,CC(C)CC(=O)O,CC(C)CC(=O)O
+crotonate,repellent,CC=CC(=O)[O-],C/C=C/C(=O)[O-]
+sorbate,repellent,CC=CC=CC(=O)[O-],CC=CC=CC(=O)[O-]
+2-mercaptoacetate,repellent,C(C(=O)[O-])S,C(C(=O)[O-])S
+benzoate,repellent,C1=CC=C(C=C1)C(=O)[O-],C1=CC=C(C=C1)C(=O)[O-]
+phenylacetate,repellent,C1=CC=C(C=C1)CC(=O)[O-],C1=CC=C(C=C1)CC(=O)[O-]
+thioacetate,repellent,CC(=O)[S-],CC(=O)[S-]
+acetamide,repellent,CC(=O)N,CC(=O)N
+palmitate,repellent,CCCCCCCCCCCCCCCC(=O)O,CCCCCCCCCCCCCCCC(=O)O
+stearate,repellent,CCCCCCCCCCCCCCCCCC(=O)[O-],CCCCCCCCCCCCCCCCCC(=O)[O-]
+2-hydroxy-iso-butyrate,none,CC(C)(C(=O)O)O,CC(C)(C(=O)O)O
+L-2-amino-n-butyrate,none,CCC(C(=O)O)N,CC[C@@H](C(=O)O)N
+4-amino-n-butyrate,none,C(CC(=O)O)CN,C(CC(=O)O)CN
+6-amino-n-caproate,none,C(CCC(=O)O)CCN,C(CCC(=O)O)CCN
+DL-2-amino-n-caprylate,repellent,CCCCCCC(C(=O)O)N,CCCCCCC(C(=O)O)N
+p-hydroxy benzoate,repellent,C1=CC(=CC=C1C(=O)O)O,C1=CC(=CC=C1C(=O)O)O
+p-phenylbenzoate,repellent,C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)[O-],C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)[O-]
+oxalate,none,C(=O)(C(=O)[O-])[O-],C(=O)(C(=O)[O-])[O-]
+malonate,repellent,C(C(=O)O)C(=O)O,C(C(=O)O)C(=O)O
+adipate,none,C(CCC(=O)[O-])CC(=O)[O-],C(CCC(=O)[O-])CC(=O)[O-]
+sebacate,none,C(CCCCC(=O)[O-])CCCC(=O)[O-],C(CCCCC(=O)[O-])CCCC(=O)[O-]
+n-valeramide,repellent,CCCCC(=O)N,CCCCC(=O)N
+methyl acetate,none,CC(=O)OC,CC(=O)OC
+amyl acetate,none,CCCCCOC(=O)C,CCCCCOC(=O)C
+methyl propionate,none,CCC(=O)OC,CCC(=O)OC
+methanol,repellent,CO,CO
+ethanol,repellent,CCO,CCO
+n-propanol,repellent,CCCO,CCCO
+n-butanol,repellent,CCCCO,CCCCO
+iso-propanol,repellent,CC(C)O,CC(C)O
+iso-butanol,repellent,CC(C)CO,CC(C)CO
+iso-amyl alcohol,repellent,CC(C)CCO,CC(C)CCO
+ethylene glycol,repellent,C(CO)O,C(CO)O
+mercaptoethanol,repellent,C(CS)O,C(CS)O
+2-propanethiol,repellent,CC(C)S,CC(C)S
+2-amino-2-methyl-1-propanol,none,CC(C)(CO)N,CC(C)(CO)N
+formaldehyde,none,C=O,C=O
+acetaldehyde,none,CC=O,CC=O
+l-norleucine,repellent,CCCCC(C(=O)O)N,CCCC[C@@H](C(=O)O)N
+l-norvaline,repellent,CCCC(C(=O)O)N,CCC[C@@H](C(=O)O)N
+p-amino-DL-phenylalanine,repellent,C1=CC(=CC=C1CC(C(=O)O)N)N,C1=CC(=CC=C1CC(C(=O)O)N)N
+D-leucine,repellent,CC(C)CC(C(=O)O)N,CC(C)C[C@H](C(=O)O)N
+D-phenylalanine,repellent,C1=CC=C(C=C1)CC(C(=O)O)N,C1=CC=C(C=C1)C[C@H](C(=O)O)N
+D-alpha-aminophenylacetate,repellent,C1=CC=C(C=C1)C(C(=O)O)N,C1=CC=C(C=C1)[C@H](C(=O)O)N
+N-benzoyl-DL-leucine,repellent,CC(C)CC(C(=O)O)NC(=O)C1=CC=CC=C1,CC(C)CC(C(=O)O)NC(=O)C1=CC=CC=C1
+N-methyl-DL-leucine,repellent,CC(C)CC(C(=O)O)NC,CC(C)CC(C(=O)O)NC
+L-leucine amide,none,CC(C)CC(C(=O)N)N,CC(C)C[C@@H](C(=O)N)N
+L-tryptophan amide,none,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)N)N,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)N)N
+L-leucine ethyl ester,none,CCOC(=O)C(CC(C)C)N,CCOC(=O)[C@H](CC(C)C)N
+L-phenylalanine methyl ester,none,COC(=O)C(CC1=CC=CC=C1)N,COC(=O)[C@H](CC1=CC=CC=C1)N
+tryptamine,repellent,C1=CC=C2C(=C1)C(=CN2)CCN,C1=CC=C2C(=C1)C(=CN2)CCN
+DL-amphetamine,none,CC(CC1=CC=CC=C1)N,CC(CC1=CC=CC=C1)N
+N-acetyl-D-leucine,none,CC(C)CC(C(=O)O)NC(=O)C,CC(C)C[C@H](C(=O)O)NC(=O)C
+N-acetyl-phenylalanine,none,CC(=O)NC(CC1=CC=CC=C1)C(=O)O,CC(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O
+glycyl-L-leucine,none,CC(C)CC(C(=O)O)NC(=O)CN,CC(C)C[C@@H](C(=O)O)NC(=O)CN
+L-leucyl-glycine,none,CC(C)CC(C(=O)NCC(=O)O)N,CC(C)C[C@@H](C(=O)NCC(=O)O)N
+L-leucyl-L-leucine,none,CC(C)CC(C(=O)NC(CC(C)C)C(=O)O)N,CC(C)C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)O)N
+indole,repellent,C1=CC=C2C(=C1)C=CN2,C1=CC=C2C(=C1)C=CN2
+2-methylindole,repellent,CC1=CC2=CC=CC=C2N1,CC1=CC2=CC=CC=C2N1
+skatole,repellent,CC1=CNC2=CC=CC=C12,CC1=CNC2=CC=CC=C12
+tryptophol,repellent,C1=CC=C2C(=C1)C(=CN2)CCO,C1=CC=C2C(=C1)C(=CN2)CCO
+5-methylindole,repellent,CC1=CC2=C(C=C1)NC=C2,CC1=CC2=C(C=C1)NC=C2
+5-hydroxyindole,repellent,C1=CC2=C(C=CN2)C=C1O,C1=CC2=C(C=CN2)C=C1O
+indole-5-carboxylate,repellent,COC(=O)C1=CC2=C(C=C1)NC=C2,COC(=O)C1=CC2=C(C=C1)NC=C2
+7-methylindole,repellent,CC1=C2C(=CC=C1)C=CN2,CC1=C2C(=CC=C1)C=CN2
+indole-2-carboxylate,none,C1=CC=C2C(=C1)C=C(N2)C(=O)[O-],C1=CC=C2C(=C1)C=C(N2)C(=O)[O-]
+indole-3-acetate,repellent,C1=CC=C2C(=C1)C(=CN2)CC(=O)[O-],C1=CC=C2C(=C1)C(=CN2)CC(=O)[O-]
+indole-3-pyruvate,repellent,C1=CC=C2C(=C1)C(=CN2)CC(=O)C(=O)O,C1=CC=C2C(=C1)C(=CN2)CC(=O)C(=O)O
+gramine,repellent,CN(C)CC1=CNC2=CC=CC=C21,CN(C)CC1=CNC2=CC=CC=C21
+6-aminoindole,repellent,C1=CC(=CC2=C1C=CN2)N,C1=CC(=CC2=C1C=CN2)N
+7-azaindole,repellent,C1=CC2=C(NC=C2)N=C1,C1=CC2=C(NC=C2)N=C1
+adenine,repellent,C1=NC2=NC=NC(=C2N1)N,C1=NC2=NC=NC(=C2N1)N
+methylbenzoate,repellent,COC(=O)C1=CC=CC=C1,COC(=O)C1=CC=CC=C1
+ethylbenzoate,repellent,CCC1=CC=CC=C1C(=O)O,CCC1=CC=CC=C1C(=O)O
+benzyl alcohol,repellent,C1=CC=C(C=C1)CO,C1=CC=C(C=C1)CO
+salicylate,repellent,C1=CC=C(C(=C1)C(=O)O)[O-],C1=CC=C(C(=C1)C(=O)O)[O-]
+thiosalicylate,repellent,C1=CC=C(C(=C1)C(=O)O)S,C1=CC=C(C(=C1)C(=O)O)S
+anthranilic acid,repellent,C1=CC=C(C(=C1)C(=O)O)N,C1=CC=C(C(=C1)C(=O)O)N
+m-chlorobenzoate,repellent,C1=CC(=CC(=C1)Cl)C(=O)[O-],C1=CC(=CC(=C1)Cl)C(=O)[O-]
+m-nitrobenzoate,repellent,C1=CC(=CC(=C1)[N+](=O)[O-])C(=O)[O-],C1=CC(=CC(=C1)[N+](=O)[O-])C(=O)[O-]
+saccharin,repellent,C1=CC=C2C(=C1)C(=O)NS2(=O)=O,C1=CC=C2C(=C1)C(=O)NS2(=O)=O
+p-aminobenzoate,repellent,C1=CC(=CC=C1C(=O)[O-])N,C1=CC(=CC=C1C(=O)[O-])N
+p-hydroxybenzoate,repellent,C1=CC(=CC=C1C(=O)O)[O-],C1=CC(=CC=C1C(=O)O)[O-]
+p-toluic acid,repellent,CC1=CC=C(C=C1)C(=O)O,CC1=CC=C(C=C1)C(=O)O
+nalidixic acid,repellent,CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O,CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O
+hippuric acid,none,C1=CC=C(C=C1)C(=O)NCC(=O)O,C1=CC=C(C=C1)C(=O)NCC(=O)O
+phenol,repellent,C1=CC=C(C=C1)O,C1=CC=C(C=C1)O
+folic acid,repellent,C1=CC(=CC=C1C(=O)NC(CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N,C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+methylsalicylate,repellent,COC(=O)C1=CC=CC=C1O,COC(=O)C1=CC=CC=C1O
+aspirin,repellent,CC(=O)OC1=CC=CC=C1C(=O)O,CC(=O)OC1=CC=CC=C1C(=O)O
+p-aminosalicylate,repellent,C1=CC(=C(C=C1N)[O-])C(=O)O,C1=CC(=C(C=C1N)[O-])C(=O)O
+saligenin,none,C1=CC=C(C(=C1)CO)O,C1=CC=C(C(=C1)CO)O
+gentisic acid,none,C1=CC(=C(C=C1O)C(=O)O)O,C1=CC(=C(C=C1O)C(=O)O)O
+sodium sulfide,repellent,[Na+].[Na+].[S-2],[Na+].[Na+].[S-2]
+cobalt sulfate,repellent,[O-]S(=O)(=O)[O-].[Co+2],[O-]S(=O)(=O)[O-].[Co+2]
+nickel sulfate,repellent,[O-]S(=O)(=O)[O-].[Ni+2],[O-]S(=O)(=O)[O-].[Ni+2]
+magnesium sulfate,none,[O-]S(=O)(=O)[O-].[Mg+2],[O-]S(=O)(=O)[O-].[Mg+2]
+chromic chloride,repellent,Cl[Cr](Cl)Cl,Cl[Cr](Cl)Cl
+copper chloride,repellent,Cl[Cu]Cl,Cl[Cu]Cl
+nickel chloride,repellent,Cl[Ni]Cl,Cl[Ni]Cl
+sodium bicarbonate,none,C(=O)(O)[O-].[Na+],C(=O)(O)[O-].[Na+]
+sodium phosphate,none,[O-]P(=O)([O-])[O-].[Na+].[Na+].[Na+],[O-]P(=O)([O-])[O-].[Na+].[Na+].[Na+]
+sodium sulfate,none,[O-]S(=O)(=O)[O-].[Na+].[Na+],[O-]S(=O)(=O)[O-].[Na+].[Na+]
+penicillin,none,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+streptomycin,none,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O,C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(C=O)O
+caffeine,none,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+sodium dodecyl sulfate,none,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Triton X-100,none,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCO,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCO
+alpha-methyl-DL-aspartate,attractant,CC(CC(=O)O)(C(=O)O)N,CC(CC(=O)O)(C(=O)O)N
+AMPA,attractant,CC1=C(C(=O)NO1)CC(C(=O)O)N,CC1=C(C(=O)NO1)CC(C(=O)O)N
+guanidinosuccinic acid,attractant,C(C(C(=O)O)N=C(N)N)C(=O)O,C([C@@H](C(=O)O)N=C(N)N)C(=O)O
+N-methyl-L-aspartate,attractant,CNC(CC(=O)O)C(=O)O,CN[C@@H](CC(=O)O)C(=O)O
+N-formyl-L-aspartate,attractant,C(C(C(=O)O)NC=O)C(=O)O,C([C@@H](C(=O)O)NC=O)C(=O)O
+L-malic acid,none,C(C(C(=O)O)O)C(=O)O,C([C@@H](C(=O)O)O)C(=O)O
+L-cystathionine,none,C(CSCC(C(=O)O)N)C(C(=O)O)N,C(CSC[C@@H](C(=O)O)N)[C@@H](C(=O)O)N
+chlorflurenol,none,C1=CC=C2C(=C1)C3=C(C2(C(=O)O)O)C=C(C=C3)Cl,C1=CC=C2C(=C1)C3=C(C2(C(=O)O)O)C=C(C=C3)Cl
+N-2-nitrophenylsulfenyl-L-leucine,none,CC(C)CC(C(=O)O)NSC1=CC=CC=C1[N+](=O)[O-],CC(C)C[C@@H](C(=O)O)NSC1=CC=CC=C1[N+](=O)[O-]
+glycyl-D-valine,none,CC(C)C(C(=O)O)NC(=O)CN,CC(C)[C@H](C(=O)O)NC(=O)CN
+2-aminoethyl hydrogen sulfate,none,C(COS(=O)(=O)O)N,C(COS(=O)(=O)O)N
+2-(2-hydroxy-1-naphthylmethyleneamino)benzoic acid,none,C1=CC=C2C(=C1)C=CC(=C2C=NC3=CC=CC=C3C(=O)O)O,C1=CC=C2C(=C1)C=CC(=C2C=NC3=CC=CC=C3C(=O)O)O
+2-(4-(methylsulfonyl)phenyl)acetic acid,none,CS(=O)(=O)C1=CC=C(C=C1)CC(=O)O,CS(=O)(=O)C1=CC=C(C=C1)CC(=O)O
+1-(2-nitro-phenylazo)-naphthalen-2-ol,none,C1=CC=C2C(=C1)C=CC(=C2N=NC3=CC=CC=C3[N+](=O)[O-])O,C1=CC=C2C(=C1)C=CC(=C2N=NC3=CC=CC=C3[N+](=O)[O-])O
+"2,2'-dinitrobibenzyl",none,C1=CC=C(C(=C1)CCC2=CC=CC=C2[N+](=O)[O-])[N+](=O)[O-],C1=CC=C(C(=C1)CCC2=CC=CC=C2[N+](=O)[O-])[N+](=O)[O-]
+1-anthracenesulfonic acid,none,C1=CC=C2C=C3C(=CC2=C1)C=CC=C3S(=O)(=O)O,C1=CC=C2C=C3C(=CC2=C1)C=CC=C3S(=O)(=O)O
+1-amino-cyclohexanecarboxylic acid,repellent,C1CCC(CC1)(C(=O)O)N,C1CCC(CC1)(C(=O)O)N
+L-alanyl-L-proline,none,CC(C(=O)N1CCCC1C(=O)O)N,C[C@@H](C(=O)N1CCC[C@H]1C(=O)O)N
+cis-1-boc-4-amino-L-proline,none,CC(C)(C)OC(=O)N1CC(CC1C(=O)O)N,CC(C)(C)OC(=O)N1C[C@H](C[C@H]1C(=O)O)N
+H-asp(Ochex)-OH,none,C1CCC(CC1)OC(=O)CC(C(=O)O)N,C1CCC(CC1)OC(=O)C[C@@H](C(=O)O)N
+3-(cyclohexylamino)-2-hydroxy-1-propanesulfonic acid,none,C1CCC(CC1)NCC(CS(=O)(=O)O)O,C1CCC(CC1)NCC(CS(=O)(=O)O)O
+D-glucosamine-3-sulfate,none,C(C1C(C(C(C(O1)O)N)OS(=O)(=O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)N)OS(=O)(=O)O)O)O
+"2,5-anhydro-D-mannitol-1-phosphate",none,C(C1C(C(C(O1)COP(=O)(O)O)O)O)O,C([C@@H]1[C@H]([C@@H]([C@H](O1)COP(=O)(O)O)O)O)O
+1-deoxy-1-nitro-L-mannitol,none,C(C(C(C(C(CO)O)O)O)O)[N+](=O)[O-],C([C@@H]([C@@H]([C@H]([C@H](CO)O)O)O)O)[N+](=O)[O-]
+"1,4-dinitro-1,1,4,4-tetrachlorobutane",none,C(CC([N+](=O)[O-])(Cl)Cl)C([N+](=O)[O-])(Cl)Cl,C(CC([N+](=O)[O-])(Cl)Cl)C([N+](=O)[O-])(Cl)Cl
+TAPS,none,C(CNC(CO)(CO)CO)CS(=O)(=O)O,C(CNC(CO)(CO)CO)CS(=O)(=O)O
+"2,4-diamino-pentanedioic acid",none,C(C(C(=O)O)N)C(C(=O)O)N,C(C(C(=O)O)N)C(C(=O)O)N
+melatonin,repellent,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC
+serotonin,none,C1=CC2=C(C=C1O)C(=CN2)CCN,C1=CC2=C(C=C1O)C(=CN2)CCN
+spermidine,repellent,C(CCNCCCN)CN,C(CCNCCCN)CN
+putrescine,none,C(CCN)CN,C(CCN)CN
+dopamine,attractant,C1=CC(=C(C=C1CCN)O)O,C1=CC(=C(C=C1CCN)O)O
+epinephrine,none,CNCC(C1=CC(=C(C=C1)O)O)O,CNC[C@@H](C1=CC(=C(C=C1)O)O)O
+norepinephrine,repellent,C1=CC(=C(C=C1C(CN)O)O)O,C1=CC(=C(C=C1[C@H](CN)O)O)O
+"3,4-dihydroxymandelic acid",attractant,C1=CC(=C(C=C1C(C(=O)O)O)O)O,C1=CC(=C(C=C1C(C(=O)O)O)O)O
